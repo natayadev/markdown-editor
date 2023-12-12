@@ -1,4 +1,4 @@
 # Basic Markdown Editor
 <h1 align="center">
-  <img align="center"; src="./markdown-editor/assets/example.png">
+  <img align="center"; src="assets/example.png">
 </h1>
